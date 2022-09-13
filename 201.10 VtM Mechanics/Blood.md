@@ -1,0 +1,1 @@
+Players roll their Blood pool. 1s act as blood being consumed.
