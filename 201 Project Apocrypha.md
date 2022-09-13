@@ -7,11 +7,12 @@ status: Active
 TABLE WITHOUT ID file.mtime AS "Last Modified"  
 WHERE file.path = this.file.path  
 ```
-# What is Project Apocrypha?
+# Project Apocrypha - Github
+[Aithr-13/Project-Apocrpyha-OBSD (github.com)](https://github.com/Aithr-13/Project-Apocrpyha-OBSD)
 
 # How is it going?
 ## Overview
-
+Some basics still need to be finished. No advanced components are done. Need to rough out the basics of character gen, either.
 
 ## Recent Documents
 ```dataview
