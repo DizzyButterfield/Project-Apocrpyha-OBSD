@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "bf9e97be6b91e17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5935f3bb4a41c2b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "201.00 Design Documents/201.02 Attributes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52a13baebd345479",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb79279ab1816cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ccdbbc0cb671b23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "109d506b43931d47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a8001c9ef49337f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "308c233f788fc21e",
+    "type": "split",
+    "children": [
+      {
+        "id": "15cb4e2e4ee64936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db108c1de78c64a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "201.00 Design Documents/201.02 Attributes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e037ac93d9b346bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "201.00 Design Documents/201.02 Attributes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f18b43cce97f38b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44a735ea44723421",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "201.00 Design Documents/201.02 Attributes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5935f3bb4a41c2b",
+  "lastOpenFiles": [
+    "201 Project Apocrypha.md",
+    "201.00 Design Documents/201.02 Attributes.md",
+    "201.00 Design Documents/201.00 Design Documents.md",
+    "201.00 Design Documents/201.01 Dice and Task Resolution.md"
+  ]
+}
